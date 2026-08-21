@@ -15,7 +15,7 @@ Snapshot date / 快照日期: 2026-08-21
 | WorkBuddy behavioral runs | 0/24 recorded; client absent | Pending |
 | TRAE Work behavioral runs | 0/24 recorded; client absent | Pending |
 | Doubao Office Tasks behavioral runs | 0/24 recorded; client absent | Pending |
-| GitHub publication | Local repository initialized; no remote and no authenticated GitHub CLI session | Pending |
+| GitHub publication | Public repository and `main` branch created at `KevinK2738/beauty-product-development-skills`; `v1.0.0` tag and Release deliberately withheld until behavioral testing passes | Partial |
 
 `v1.0.0` must not be tagged or published until all 96 behavioral runs meet the scoring threshold with no critical failure. This snapshot records a release candidate, not an industry certification or four-platform compatibility claim.
 
