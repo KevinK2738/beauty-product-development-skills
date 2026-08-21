@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use these skills in research, education, or published practice, please cite this repository."
+title: "Beauty Product Development Skills"
+type: software
+authors:
+  - name: "K-Beauty"
+license: Apache-2.0
+abstract: "Bilingual Agent Skills for evidence-traceable beauty product, packaging, and supplier work."

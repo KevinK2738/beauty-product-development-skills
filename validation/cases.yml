@@ -1,0 +1,27 @@
+schema_version: 1
+cases:
+  - {id: BPI-Q1, skill: beauty-product-intake, type: quick, example: examples/01-quick-text.md, expected: pass}
+  - {id: BPI-P1, skill: beauty-product-intake, type: professional, example: examples/02-professional-files.md, expected: pass}
+  - {id: BPI-S1, skill: beauty-product-intake, type: stop, example: examples/03-stop-conflict.md, expected: stop_or_degrade}
+  - {id: BCO-Q1, skill: beauty-competitor-opportunity, type: quick, example: examples/01-quick-text.md, expected: pass}
+  - {id: BCO-P1, skill: beauty-competitor-opportunity, type: professional, example: examples/02-professional-files.md, expected: pass}
+  - {id: BCO-S1, skill: beauty-competitor-opportunity, type: stop, example: examples/03-stop-isolated-review.md, expected: stop_or_degrade}
+  - {id: BPB-Q1, skill: beauty-product-brief, type: quick, example: examples/01-quick-text.md, expected: pass}
+  - {id: BPB-P1, skill: beauty-product-brief, type: professional, example: examples/02-professional-files.md, expected: pass}
+  - {id: BPB-S1, skill: beauty-product-brief, type: stop, example: examples/03-stop-regulatory.md, expected: stop_or_degrade}
+  - {id: BPR-Q1, skill: beauty-packaging-requirements, type: quick, example: examples/01-quick-text.md, expected: pass}
+  - {id: BPR-P1, skill: beauty-packaging-requirements, type: professional, example: examples/02-professional-files.md, expected: pass}
+  - {id: BPR-S1, skill: beauty-packaging-requirements, type: stop, example: examples/03-stop-carton-dimensions.md, expected: stop_or_degrade}
+  - {id: BCR-Q1, skill: beauty-packaging-candidate-review, type: quick, example: examples/01-quick-missing-contact-material.md, expected: pass}
+  - {id: BCR-P1, skill: beauty-packaging-candidate-review, type: professional, example: examples/02-professional-one-qualified.md, expected: pass}
+  - {id: BCR-S1, skill: beauty-packaging-candidate-review, type: stop, example: examples/03-stop-stale-commercials.md, expected: stop_or_degrade}
+  - {id: BPD-Q1, skill: beauty-packaging-directions, type: quick, example: examples/01-quick-two-strategies.md, expected: pass}
+  - {id: BPD-P1, skill: beauty-packaging-directions, type: professional, example: examples/02-professional-false-difference.md, expected: pass}
+  - {id: BPD-S1, skill: beauty-packaging-directions, type: stop, example: examples/03-stop-no-structure.md, expected: stop_or_degrade}
+  - {id: BPS-Q1, skill: beauty-packaging-specification, type: quick, example: examples/01-quick-omitted-components.md, expected: pass}
+  - {id: BPS-P1, skill: beauty-packaging-specification, type: professional, example: examples/02-professional-sample-status.md, expected: pass}
+  - {id: BPS-S1, skill: beauty-packaging-specification, type: stop, example: examples/03-stop-material-change.md, expected: stop_or_degrade}
+  - {id: BRF-Q1, skill: beauty-packaging-rfq, type: quick, example: examples/01-quick-quote-basis.md, expected: pass}
+  - {id: BRF-P1, skill: beauty-packaging-rfq, type: professional, example: examples/02-professional-sample-type.md, expected: pass}
+  - {id: BRF-S1, skill: beauty-packaging-rfq, type: stop, example: examples/03-stop-version-mismatch.md, expected: stop_or_degrade}
+

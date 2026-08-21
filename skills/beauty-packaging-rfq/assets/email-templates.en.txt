@@ -1,0 +1,64 @@
+Beauty Packaging Supplier Email Templates (English)
+Author: K-Beauty
+
+Use principles
+- Select only the mode needed for the current task.
+- Before sending, the project owner must confirm the recipient, controlled specification version, attachments, quantities, dates, and authority.
+- Delete inapplicable fields. A blank response is not supplier acceptance.
+
+1. RFI
+Subject: [RFI][Project code][Category / fill size][Response date]
+
+Hello,
+We are assessing supplier capability for the packaging requirement below. This request is for information only and is not a purchase commitment.
+
+Project code:
+Requirement summary:
+Fill size / specification version:
+Target market:
+Requested response date:
+
+Please respond item by item: product/material number, component list, direct-contact materials, controlled drawings, available dosage/structure, decoration capability, quality/test evidence, country of origin, MOQ, sample types, current lead-time range, and information validity date. Mark unknowns as “requires confirmation” and state the input needed.
+
+Attachments:
+Contact:
+
+2. RFQ
+Subject: [RFQ][Project code][Specification version][Quantity tiers][Validity requirement]
+
+Hello,
+Please quote item by item against the attached controlled specification. This RFQ is not an order or acceptance of terms.
+
+State: quotation reference and date, specification version, quantity tiers, unit price and currency, tax basis, Incoterms rule + named place + version, freight and packaging, tooling/plates, sample fees, MOQ, payment terms, sample and production lead times, quotation validity, deviations, and exclusions.
+
+List any alternative material, structure, or process as a deviation; do not assume equivalence.
+
+3. Sampling request
+Subject: [Sample Request][Project code][Sample type][Specification version][Need date]
+
+Hello,
+Please confirm whether you can prepare the following defined sample:
+
+Sample type (stock/appearance, structural, decoration, functional, or pilot-production):
+Specification version and material number:
+Quantity:
+Material / color / decoration status:
+Representative formula used:
+Target dosage or functional requirement:
+Test purpose:
+Requested arrival date and address:
+
+Please identify all differences from the proposed production specification, fees, build/dispatch date, tracking reference, and the validation purposes the sample can support.
+
+4. Supplier-response alignment
+Subject: [Response Alignment][Project code][Specification version][Open-item count]
+
+Hello,
+Thank you for your response. To avoid version and basis ambiguity, please confirm every row in the attached alignment sheet: controlled specification version, supplier response, evidence file/page, deviation, missing information, owner, and target response date.
+
+Open conflicts / unconfirmed items:
+1.
+2.
+
+Until these items are closed in writing, the response will not be recorded as final technical confirmation, commercial acceptance, or production release.
+

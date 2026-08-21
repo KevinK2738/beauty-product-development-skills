@@ -1,0 +1,30 @@
+name: Source or rights concern
+description: Report a stale, unsupported, or rights-sensitive source
+title: "[Source] "
+labels: [source]
+body:
+  - type: input
+    id: path
+    attributes:
+      label: Repository path or source URL
+    validations:
+      required: true
+  - type: dropdown
+    id: concern
+    attributes:
+      label: Concern type
+      options:
+        - Broken or stale source
+        - Unsupported claim
+        - Copyright or license concern
+        - Trademark or attribution concern
+        - Confidential information concern
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+    validations:
+      required: true
+
