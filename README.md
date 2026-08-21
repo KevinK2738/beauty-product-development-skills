@@ -6,7 +6,7 @@
 
 本项目由 **K-Beauty** 维护，采用 [Apache License 2.0](LICENSE)；许可使用说明可参阅 [Apache Software Foundation](https://www.apache.org/legal/apply-license.html) 与 [OSI 许可证目录](https://opensource.org/licenses)。项目为独立开源作品，与案例中提到的品牌、供应商及平台无隶属、合作或背书关系。
 
-**当前状态：发布候选。** Skill 内容、案例和模板已经建立；四个平台的 96 次真实运行尚未完成，因此当前仓库不应标记或宣传为 `v1.0.0`，也不声称未经测试的平台兼容。当前门槛快照见 [`validation/RELEASE_CHECKLIST.md`](validation/RELEASE_CHECKLIST.md)。
+**当前门槛快照见 [`validation/RELEASE_CHECKLIST.md`](validation/RELEASE_CHECKLIST.md)。
 
 ## 能力
 
